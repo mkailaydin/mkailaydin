@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently working on multiple infrastructure project<br>📚 I'm currently learning Cisco Switch Setting</p>
+<p align="left">✨ I'm currently working on multiple infrastructure project<br>📚 I'm currently learning Cisco switch configuration</p>
 
 ###
 

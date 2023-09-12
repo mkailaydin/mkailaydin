@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mkailaydin/mkailaydin/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mkailaydin/mkailaydin/snake.svg" alt="Snake animation" />
 
 ###
 

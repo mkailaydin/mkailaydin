@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate system specialist from Turkey</p>
+<p align="left">System Administrator | Microsoft Windows Server and Microsoft Technologies, Linux, Virtualization Technologies, Storage (SAN etc..)</p>
 
 ###
 
